@@ -3,6 +3,7 @@ A closure is the combination of a function bundled together (enclosed) with refe
 
 - JavaScript variables can belong to the local or global scope.
 - Global variables can be made local (private) with closures.
+- **Lexical Scope:** A lexical scope in Javascript means that a variable defined outside a function can be accessible inside another function defined after the variable declaration. But the opposite is not true, the variables defined inside a function will not be accessible outside that function.
 
 ### Example 1 (Basic example)
 ```javascript
