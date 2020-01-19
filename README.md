@@ -16,4 +16,4 @@ add();
 console.dir(add)
 // the counter is now 3
 ```
-![How to check closure](images/)
+![How to check closure](images/image1_closure.png)
